@@ -1,7 +1,7 @@
 {
   "name": "core.imports.create-react-class",
   "version": "0.1.4",
-  "description": "frontend toolchain",
+  "description": "imports create-react-class",
   "main": "index.js",
   "dependencies": {
     "create-react-class": "^15.5.2"
