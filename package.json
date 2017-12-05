@@ -1,5 +1,5 @@
 {
-  "name": "core.imports.create-react-class",
+  "name": "core.import.create-react-class",
   "version": "0.1.4",
   "description": "imports create-react-class",
   "main": "index.js",
